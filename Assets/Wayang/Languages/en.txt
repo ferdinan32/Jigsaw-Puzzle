@@ -1,0 +1,45 @@
+{
+  "data": {
+      "language_set": [
+        "SELECT A LANGUAGE",
+        "PRESS ANY BUTTON",
+        "BOOK",
+        "SETTINGS",
+        "MUSIC",
+        "SOUND FX",
+        "EXIT GAME ?",
+        "NO",
+        "YES",
+        "SELECT LEVEL",
+        "LOADING",
+        "CONGRATULATION",
+        "YOU LOSE",
+        "PAUSE"
+      ],
+      "language_loading": [
+        "Blencong in terms of puppetry or puppetry is a lighting tool used to activate shadow puppets on the screen / screen",
+        "Pandawa is a term for male knights consisting of Yudhistira, Bima, Arjuna, Nakula, Sadewa",
+        "Krishna is the king who respected Semar, and vice versa Semar. They both became caregivers, supporting their knights, namely Pandwa 5",
+        "Krishna is the king of the Dwarawati kingdom. A wise and powerful king. Care for Pandawa knights 5",
+        "Punokawan is a general designation for the followers and won the knight in the Javanese wayang shadow puppet story. Punokawan consists of Semar, Gareng, Petruk and Bagong",
+        "Semar is an advisor to Pandawa 5. Semar is a companion and advisor. Get teachings about life for all children and children",
+        "Gunungan is a special figure that forms mountain images with various kinds of images with different functions and meanings",
+        "Wayang kulit was approved by UNESCO on November 7, 2003 as a masterpiece of oral and intangible heritage of humankind or an invaluable world masterpiece in Indonesian native art"
+      ],
+      "language_book": [
+        "<color=yellow>Name</color>\nSemar, Sang Hyang Ismaya, Baranaya.\n<color=yellow>Nature</color>\nPatience, understand the whole chapter of the old philosophy of the afterlife\n<color=yellow>Divine power</color>\nFart weapon (Not to kill but to awaken).",
+        "<color=yellow>Name</color>\nNala Gareng, Bambang Sukskati, Pancalpamor, Pegatwaja, Cakrawangsa, Pandhu Pragolmanik, Bambang Jati Pitutur\n<color=yellow>Nature</color>\nExcellent, polite, smooth.\n<color=yellow>Divine power</color>\nAji for mercy",
+        "<color=yellow>Name</color>\nPetruk, Bambang Penyukilan, Bambang Pecrukpanyukilan, Kyai Supatra, Kanthong bolong, Surajenggala, Kebodebleng, Dublajaya.\n<color=yellow>Nature </color>\nHonest, defending the truth, faithful, momong (nurturing), keeping a secret, roomy, understanding to his master, useful to people around.\n<color=yellow>Divine power</color>\npethel weapon, pestle.",
+        "<color=yellow>Name</color>\nBagong, Bawor, Cepot, Carub, Astrajingga, Antolgati, Protocol Corner\n<color=yellow>Nature</color>\nFunny, Lugu, smart, honest, powerful, careless, naughty, joking, the last child\n<color=yellow>Divine power</color>\nKudi's weapon",
+        "<color=yellow>Name</color>\nKrishna, Narayana, Kesawamurti, Padmanaba, Guwinda, Danardana, Wasudewa and Wisnumurti.\n<color=yellow>Nature</color>\nfriendly, sociable, sociable, lots of friends, humorous and politicians\n<color=yellow>Divine Power</color>\nChakra Bhaskara, Kembang Wijaya Kusuma, sixth senses , mantra ajian Balasrewu",
+        "<color=yellow>Name</color>\nYudhistira, Puntadewa, Darmasukma, Darmaputra, Dwijangka, Darma Wangsa, Ajathastru\n<color=yellow>Nature</color>\nhonest, authoritative, loyal, helpful, not greedy, polite, good\n<color=yellow>Divine Power</color>\nweapons of Jamus Kalimasada, Spear Tunggulnaga, Spear Karawerang",
+        "<color=yellow>Name</color>\nBima, Wijasena, Werkudara, Bratasena\n<color=yellow>Nature</color>\nCourageous, kind, honest and strong in stance, protect.\n<color=yellow>Divine Power</color>\nPancanaka Nails, Gada Rujakpala, Alugara, Bargawa, Bargawasta. Aji Bandungbandawasa, Aji Ketuglindhu, Aji Bayubraja, Aji pangantol-antol blabak.",
+        "<color=yellow>Name</color>\nArjuna, Janaka, Permadi, Danajaya, Indratanaya, Plaguna, Jahnawi, Kumbang aliali, margana\n<color=yellow>Nature</color>\ngentle, patient, loyal, helpful, dashing, brave, handsome, wise, generous, wise.\n<color=yellow>Divine Power</color>\nkyai pamuk whip heirloom, kyai pulanggeni heriloom, kyai krisi balairagas, kyai bramasta arrows, kyai pasupati arrows.",
+        "<color=yellow>Name</color>\nNakula, Pinten, Tripama\n<color=yellow>Nature</color>\nhonest, loyal, brave, smart\n<color=yellow>Divine Power</color>\nAji Pranawajati (can't forget anything)",
+        "<color=yellow>Name</color>\nSadewa, Tangsen, Darmaganti, Sudamala, Madraputra\n<color=yellow>Nature</color>\nhonest, loyal, brave, smart\n<color=yellow>Divine power</color>\nunderstand the sadness of a win (knowing something that will happen)",
+        "<color=yellow>Name</color>\nSetyaki, Arya Wresniwara, Singamulangjaya, Lesanpura, Bima Kunting\n<color=yellow>Nature</color>\nCourageous, intelligent, strong, hard-hearted, determined\n<color=yellow>Divine power</color>\nGada wesu kuning, Nagabanda arrow",
+        "<color=yellow>Name</color>\nSengkuni, Harya Suman Trigantalpati, Suawalaputra, Arya Suman, Raden Swelaputra\n<color=yellow>Nature</color>\nCunning, likes to pit sheep, likes to lie and behaves arbitrarily but he is very clever in war strategy.\n<color=yellow>Divine power</color>\nimmune, Cis, Kethu Jingga",
+        "<color=yellow>Name</color>\nAdipati Karna, Basukarna, Suryatmaja, Suryaputra, Aradea\n<color=yellow>Nature</color>\nCourageous, loyal, self-aware, firm\n<color=yellow>Divine power</color>\nAji Kalakupa, Aji Naracabala, Kawacayuda Vest, Socamaningrat Ring, Kunta Arrow, Wijayacapa Arrow, Keris Kiai Jalak"
+      ]
+  }
+}

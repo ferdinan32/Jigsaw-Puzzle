@@ -1,0 +1,45 @@
+{
+  "data": {
+      "language_set": [
+        "PILIH BAHASA",
+        "TEKAN PUNIPAA",
+        "KITAB",
+        "PANRAPSILA",
+        "MUSIK",
+        "PIKANTUK SWANTEN",
+        "MIYOS AMENGAN ?",
+        "MBOTEN",
+        "INGGIH",
+        "PILIH TINGKATAN",
+        "NGEWRAT",
+        "SLAMET",
+        "KALAH",
+        "UNTAWIS"
+      ],
+      "language_loading": [
+        "Blencong lebet istilah pedalaangan utawi paringgitan nguripkaken pirantos panempuhan ingkang ndue gina kagem nyugengaken bayangan ringgit wonten kelir",
+        "Pandawa nguripkaken istilah putra satrio tiang kakung ingkang salira Yudhistira,Bima,Arjuna,Nakula,Sadewa",
+        "Kresna yaiku sapriyatun nalendra ingkang ngaosi semar, mekaten ugi semar sawalikipun. Piyambakipun sedaya ngalih dados sapriyatun pengasuh,penasihat kagem para satrio yaiku pandawa",
+        "Kresna yaiku sapriyatun nalendra saking kenalendran Dwarawati. Sapriyatun nalendra ingkang bijaksono ugi sakti. Ngasuh poro satrio Pandawa",
+        "Punokawan yaiku wasta umum kagem poro panumut ugi pamitutur satrio lebet cerios Wayang kulit bantala Jawi. Punokawan salira saking Semar,Gareng,Petru,Bagong",
+        "Semar yaiku sapriyatun pengasuh kagem pandawa. Semar nguripikaken pendamping pindhah pangandikan. Nyaosaken wucalan kesugengan kagem sedaya satio ugi peputranipun",
+        "Gunungan yaiuku figure khusus ndue bentuk gambar redi kaliyan ngados macem gambar kaliyan gina ugi artos ingkang benten-benthen",
+        "Wayang kulit sampun dipundalemi dening UNESCO wonten lukar 7 November 2006 dados Masterpieces of oral and intangible heritage of humanity utawi pusaka mahakarya dunia ingkang mboten ing diaosi seni ngadika sejatos Indonesia"
+      ],
+      "language_book": [
+        "<color=yellow>Asma</color>\nSemar , Sang Hyang Ismaya, Baranaya.\n<color=yellow>Sifat</color>\nSabar, faham sedaya bab falsafah yuswa dunia jaman kailangan\n<color=yellow>Kesaktian</color>\nSenjata sarib ( mboten kagem nyedani mbentenaken kagem ngemutaken).",
+        "<color=yellow>Asma</color>\nNala Gareng, Bambang Sukskati, Pancalpamor,Pegatwaja, Cakrawangsa,Pandhu Pragolmanik, Bambang jatos Pitutur\n<color=yellow>Sifat</color>\nPrasaja, sopan, lembat.\n<color=yellow>Kesaktian</color>\nAji panaksihan",
+        "<color=yellow>Asma</color>\nPetruk, Bambang Penyukilan, BambangPecrukpanyukilan, Kyai Supatra, Kanthong bolon g,Surajenggala, Kebodebleng, Dublajaya.\n<color=yellow>Sifat</color>\nJujur, labet kekasinggihanan, setia, ngasuh,menyimpan wados, lapang jaja, ngertos datheng tuan, nggina datheng priyantun sekitar.\n<color=yellow>Kesaktian</color>\nsenjata pethel, alu.",
+        "<color=yellow>Asma</color>\nBagong, Bawor, Cepot, Carub, Astrajingga, Antolgati,Pojok kethokol\n<color=yellow>Sifat</color>\nlucu, Lugu, pinter, jujur, sakti, ceroboh, mbeling, remen nggojek, putra terakhir\n<color=yellow>Kesaktian</color>\nSenjata Kudi",
+        "<color=yellow>Asma</color>\nKresna, Narayana, Kesawamurti, Padmanaba, Guwinda, Danardana, Wasudewa ugi Wisnumurti.\n<color=yellow>Sifat</color>\ngrapyak, gampil bergaul,supel, kathah rencang, humoris ugi politikus\n<color=yellow>Kesaktian</color>\nCakra Bhaskara, Kembang Wijaya Kusuma, indra datheng enem, japi ajian Balasrewu",
+        "<color=yellow>Asma</color>\nYudhistira, Puntadewa, Darmasukma, Darmaputra,Dwijangka, sadermi Wangsa, Ajathastru\n<color=yellow>Sifat</color>\njujur, berwibawa, setia, remen nulung, mboten rakusbanda, sopan, ihklas\n<color=yellow>Kesaktian</color>\nsenjata Jamus Kalimosodo, watangan Tunggulnaga,watangan Karawerang",
+        "<color=yellow>Asma</color>\nBima, Wijasena, Werkudara, Bratasena\n<color=yellow>Sifat</color>\npamantun, sae, jujur ugi kokoh panyaliran, melindungi.\n<color=yellow>Kesaktian</color>\nkenaka Pancanaka, Gada Rujakpala, Alugara,Bargawa, Bargawasta. Aji Bandungbandawasa, A ji Ketuglindhu,Aji Bayubraja, Aji blabak pangantol-antol.",
+        "<color=yellow>Asma</color>\nArjuna, Janaka, Permadi, Danajaya, Indratanaya,Plaguna, Jahnawi, Kumbang alia li, margana\n<color=yellow>Sifat</color>\nlembat, sabar, setia, remen nulung, gagah, wantun, tampan, arif, dermawan, bijaksana.\n<color=yellow>Kesaktian</color>\npusaka tembung kyai pamuk, wangkingan kyaipulanggeni, wangkingan kyai balairagas, jempar ing kyaibramasta, jemparing kyai pasupati.",
+        "<color=yellow>Asma</color>\nNakula, Pinten, Tripama\n<color=yellow>Sifat</color>\njujur, setia,berani, cerdas\n<color=yellow>Kesaktian</color>\nAji Pranawajati (mboten saged kalimengan badhe punapaa)",
+        "<color=yellow>Asma</color>\nSadewa, Tangsen, Darmaganti, Sudamala, Madraputra\n<color=yellow>Sifat</color>\njujur, setia,berani, cerdas\n<color=yellow>Kesaktian</color>\nngerti sadurunge winarah (mriksani samukawis ingkang bakal kedadosan)",
+        "<color=yellow>Asma</color>\nSetyaki, Arya Wresniwara,Singamulangjaya, Lesanpura,Bima Kunting\n<color=yellow>Sifat</color>\npamantun, cerdas, kiyat, keras penggalih, nekat\n<color=yellow>Kesaktian</color>\nGada wesi jene, jemparing Nagabanda",
+        "<color=yellow>Asma</color>\nSengkuni, Harya Suman Trigantalpati, Suawalaputra, Arya Suman, Raden Swelaputra\n<color=yellow>Sifat</color>\nlicik, reneb nggigat domba, remen ndora ugi seremenipun, sanget pinter lebet strategi perang\n<color=yellow>Kesaktian</color>\nkebal, Cis, Kethu Jingga",
+        "<color=yellow>Asma</color>\nAdipati Karna, Basukarna, Suryatmaja, Suryaputra, Aradea\n<color=yellow>Sifat</color>\nPemantun, Setia, Emut Selira, Kekah Panyaliran\n<color=yellow>Kesaktian</color>\nAji Kalakupa, Aji Naracabala, Rompi Kawacayuda, Cincin Socamaningrat, Panah Kunta, Panah Wijayacapa, Keris Kiai Jalak"
+      ]
+  }
+}

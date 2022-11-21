@@ -1,0 +1,45 @@
+{
+  "data": {
+      "language_set": [
+        "PILIH BAHASA",
+        "TEKAN TOMBOL APAPUN",
+        "BUKU",
+        "PENGATURAN",
+        "MUSIK",
+        "EFEK SUARA",
+        "KELUAR PERMAINAN ?",
+        "TIDAK",
+        "YA",
+        "PILIH TINGKATAN",
+        "MEMUAT",
+        "BERHASIL",
+        "ANDA KALAH",
+        "JEDA"
+      ],
+      "language_loading": [
+        "Blencong dalam istilah pedalangan atau pewayangan merupakan alat penerangan yang berfungsi untuk menghidupkan bayangan wayang pada kelir/layar",
+        "Pandawa merupakan istilah anak kesatria laki- laki yang terdiri Yudhistira, Bima, Arjuna, Nakula, sadewa",
+        "Kresna adalah seorang raja yang menghormati semar, begitu juga semar sebaliknya. Mereka berdua menjadi seorang pengasuh,penasihat bagi para kesatrianya yaitu Pandwa 5",
+        "Kresna adalah  seorang raja dari kerajaan Dwarawati. Seorang raja yang bijaksana dan sakti. Mengasuh para kesatria Pandawa 5",
+        "Punokawan adalah sebutan umum untuk para pengikut dan penasihat kesatria dalam cerita wayang kulit tanah jawa. Punokawan terdiri dari Semar, Gareng, Petruk dan Bagong",
+        "Semar adalah seorang pengasuh bagi pandawa 5. Semar merupakan pendamping sekaligus penasehat. Memberikan ajaran tentang kehidupan bagi seluruh kesatria dan anak-anaknya",
+        "Gunungan adalah figure khusus berbentuk gambar gunung dengan berbagai macam gambar dengan fungsi dan arti yang berbeda-beda",
+        "Wayang kulit telah diakui oleh UNESCO pada tanggal 7 November 2003 sebagai Masterpiece of oral and intangible heritage of humanity atau warisan mahakarya dunia yang tak ternilai dalam seni bertutur asli Indonesia"
+      ],
+      "language_book": [
+        "<color=yellow>Nama</color>\nSemar , Sang Hyang Ismaya, Baranaya.\n<color=yellow>Sifat</color>\nSabar, faham seluruh bab falsafah tua dunia akhirat\n<color=yellow>Kesaktian</color>\nSenjata Kentut ( Tidak untuk membunuh melainkan untuk menyadarkan).",
+        "<color=yellow>Nama</color>\nNala Gareng, Bambang Sukskati, Pancalpamor, Pegatwaja, Cakrawangsa,Pandhu  Pragolmanik, Bambang Jati Pitutur\n<color=yellow>Sifat</color>\nPrasaja, sopan, halus.\n<color=yellow>Kesaktian</color>\nAji pengasihan",
+        "<color=yellow>Nama</color>\nPetruk, Bambang Penyukilan, Bambang Pecrukpanyukilan, Kyai Supatra, Kanthong bolong, Surajenggala, Kebodebleng, Dublajaya.\n<color=yellow>Sifat</color>\nJujur,  membela kebenaran, setia, momong (mengasuh), menyimpan rahasia, lapang dada, paham ke tuannya, bermanfaat ke orang sekitar.\n<color=yellow>Kesaktian</color>\nsenjata pethel, alu.",
+        "<color=yellow>Nama</color>\nBagong, Bawor, Cepot, Carub, Astrajingga, Antolgati, Pojok kethokol\n<color=yellow>Sifat</color>\nLucu, Lugu, pintar, jujur, sakti, ceroboh, nakal, suka bercanda, anak terakhir\n<color=yellow>Kesaktian</color>\nSenjata Kudi",
+        "<color=yellow>Nama</color>\nKresna, Narayana, Kesawamurti, Padmanaba, Guwinda, Danardana, Wasudewa dan Wisnumurti.\n<color=yellow>Sifat</color>\nramah, mudah bergaul,supel, banyak teman, humoris dan politikus\n<color=yellow>Kesaktian</color>\nCakra Bhaskara, Kembang Wijaya Kusuma, indra ke 6, mantra ajian Balasrewu",
+        "<color=yellow>Nama</color>\nYudhistira, Puntadewa, Darmasukma, Darmaputra, Dwijangka, Darma Wangsa, Ajathastru\n<color=yellow>Sifat</color>\njujur, berwibawa, setia, suka menolong, tidak rakus harta, sopan, ihklas\n<color=yellow>Kesaktian</color>\nsenjata Jamus Kalimasada, Tombak Tunggulnaga, Tombak Karawerang.",
+        "<color=yellow>Nama</color>\nBima, Wijasena, Werkudara, Bratasena\n<color=yellow>Sifat</color>\nPemberani, baik, jujur dan kokoh pendirian, melindungi.\n<color=yellow>Kesaktian</color>\nKuku Pancanaka, Gada Rujakpala, Alugara, Bargawa, Bargawasta. Aji Bandungbandawasa, Aji Ketuglindhu, Aji Bayubraja, Aji blabak pangantol-antol.",
+        "<color=yellow>Nama</color>\nArjuna, Janaka, Permadi, Danajaya, Indratanaya, Plaguna, Jahnawi, Kumbang aliali, margana\n<color=yellow>Sifat</color>\nlembut, sabar, setia, suka menolong, gagah, berani, tampan, arif, dermawan, bijaksana.\n<color=yellow>Kesaktian</color>\npusaka cambuk kyai pamuk, keris kyai pulanggeni, keris kyai balairagas, panah kyai bramasta, panah kyai pasupati.",
+        "<color=yellow>Nama</color>\nNakula, Pinten, Tripama\n<color=yellow>Sifat</color>\njujur, setia,berani, cerdas\n<color=yellow>Kesaktian</color>\nAji Pranawajati (tidak dapat lupa akan apapun)",
+        "<color=yellow>Nama</color>\nSadewa, Tangsen, Darmaganti, Sudamala, Madraputra\n<color=yellow>Sifat</color>\njujur, setia,berani, cerdas\n<color=yellow>Kesaktian</color>\nngerti sadurunge winarah (mengetahui sesuatu yang bakal terjadi)",
+        "<color=yellow>Nama</color>\nSetyaki, Arya Wresniwara,Singamulangjaya, Lesanpura, Bima Kunting\n<color=yellow>Sifat</color>\nPemberani, cerdas, kuat, keras hati, nekat\n<color=yellow>Kesaktian</color>\nGada wesi kuning, panah Nagabanda",
+        "<color=yellow>Nama</color>\nSengkuni, Harya Suman Trigantalpati, Suawalaputra, Arya Suman, Raden Swelaputra\n<color=yellow>Sifat</color>\nLicik, suka mengadu domba, suka berbohong dan belaku semena mena tapi dia sangatlah pintar dalam strategi perang.\n<color=yellow>Kesaktian</color>\nkebal, Cis, Kethu Jingga",
+        "<color=yellow>Nama</color>\nAdipati Karna, Basukarna, Suryatmaja, Suryaputra, Aradea\n<color=yellow>Sifat</color>\nPemberani, setia, sadar diri, teguh pendirian\n<color=yellow>Kesaktian</color>\nAji Kalakupa, Aji Naracabala, Rompi Kawacayuda, Cincin Socamaningrat, Panah Kunta, Panah Wijayacapa, Keris Kiai Jalak"
+      ]
+  }
+}
